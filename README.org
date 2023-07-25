@@ -1,0 +1,10 @@
+* cl-tui
+
+A Common Lisp library for text user interfaces
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/naryl/cl-tui.git   |
+| commit  | 4e8a06f  |
+| systems | cl-tui |
+|---------+-------------------------------------------|
+
